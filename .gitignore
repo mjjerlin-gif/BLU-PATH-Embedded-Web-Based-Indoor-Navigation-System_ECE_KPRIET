@@ -1,0 +1,28 @@
+# Silicon Labs generated folders
+.pdm/
+**/.pdm/
+
+.settings/
+**/.settings/
+
+build/
+**/build/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Compiled files
+*.o
+*.out
+*.axf
+*.bin
+*.hex
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
