@@ -1,4 +1,4 @@
-# BLU-PATH: Embedded Web-Based Indoor Navigation System
+# BLU-PATH: Embedded Web-Based Indoor Navigation System_ECE_KPRIET
 
 ## Overview
 
