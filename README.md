@@ -32,14 +32,19 @@ BLU-PATH is an embedded web-based indoor navigation system developed using the S
 
 For the complete project documentation and architecture, please refer to:
 
-**PROJECT_REPORT.md**
+**[BLUPATH_REPORT_ECE_KPRIET.md](./BLUPATH_REPORT_ECE_KPRIET.md)**
 
-## Team 
+Presentation slides: **[BLU-PATH_Embedded_Web-Based_Indoor_Navigation_System_ECE_KPRIET.pptx](./BLU-PATH_Embedded_Web-Based_Indoor_Navigation_System_ECE_KPRIET.pptx)**
 
-KPR Institute of Engineering and Technology
+## Team / Maintainers
 
-Centre of Innovation in IoT 2026
+| Name | Role | Contact |
+|------|------|---------|
+| <Student Name> | Developer | <student email> |
+| <Faculty Name> | Faculty Mentor | <faculty email> |
+
+KPR Institute of Engineering and Technology — Centre of Innovation in IoT, 2026
 
 ## License
 
-This project is developed for educational and research purposes.
+This project is licensed under the Apache License 2.0 — see the [LICENSE](./LICENSE) file for details.
