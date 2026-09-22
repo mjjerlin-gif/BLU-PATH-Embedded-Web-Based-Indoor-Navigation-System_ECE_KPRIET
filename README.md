@@ -40,8 +40,12 @@ Presentation slides: **[BLU-PATH_Embedded_Web-Based_Indoor_Navigation_System_ECE
 
 | Name | Role | Contact |
 |------|------|---------|
-| <Student Name> | Developer | <student email> |
-| <Faculty Name> | Faculty Mentor | <faculty email> |
+| Jerlin Jeba MJ | Developer | mjjerlin@gmail.com |
+| Ilakkiya V | Developer | ilakkiya.v.2006@gmail.com |
+| Kanishka M | Developer | kanishkamuthukumar16@gmail.com |
+| Riyash M | Developer | riyashmoorthy@gmail.com |
+| Ramprasath V | Developer | veluramprasath777@gmail.com |
+| <Jaikumar R> | Faculty Mentor |
 
 KPR Institute of Engineering and Technology — Centre of Innovation in IoT, 2026
 
